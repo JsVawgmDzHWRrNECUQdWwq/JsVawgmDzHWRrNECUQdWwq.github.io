@@ -17,9 +17,11 @@
 	width: 20rem;
 }
 
-.container{
-	margin: auto;
-}	
+
+.jumbotron h1{
+	font-weight: 300;
+	font-size: 300%;
+}
 
 #cock-pic{
 	transition: 200ms;
