@@ -20,7 +20,7 @@
 
 .jumbotron h1{
 	font-weight: 300;
-	font-size: 300%;
+	font-size: calc(16px + 12 * (1vw / 5));
 }
 
 #cock-pic{
