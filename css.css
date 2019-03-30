@@ -1,0 +1,38 @@
+#main{
+	
+}
+
+.alert{
+	margin-bottom: 0
+}
+
+.center{
+	text-align: center;
+}
+
+.card{
+	display: inline-block;
+	
+	margin: 0 10px 0 10px;
+	width: 20rem;
+}
+
+.container{
+	margin: auto;
+}	
+
+#cock-pic{
+	transition: 200ms;
+}
+
+#cock-pic:hover{
+	filter: brightness(66%);
+}
+
+#footer{
+	margin-top: 50px;
+}
+
+#donate{
+	text-align: center;
+}
